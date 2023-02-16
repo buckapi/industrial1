@@ -1,0 +1,12 @@
+2023-02-15 18:02:06.696 [info] Extension host with pid 18265 started
+2023-02-15 18:02:06.696 [info] Skipping acquiring lock for /var/www/html/industrial/industrial1/User/workspaceStorage/57013ae18d9e2effa6fd0f58c249558d.
+2023-02-15 18:02:06.755 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-15 18:02:06.756 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-02-15 18:02:06.814 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-15 18:02:06.823 [info] Eager extensions activated
+2023-02-15 18:02:06.825 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-15 18:02:06.825 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-02-15 18:02:06.826 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-15 18:02:06.862 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-15 18:06:06.092 [info] Extension host terminating: received terminate message from renderer
+2023-02-15 18:06:06.104 [info] Extension host with pid 18265 exiting with code 0
